@@ -11,16 +11,16 @@
 Hi! I'm Asanka, a Software Engineer mostly working on mobile development and a lover of Flutter framework.
 I'm also in last year of my Bsc in Information Technology, and I'm from Sri Lanka.
 
-My keen is to learn new technologies and develop new ideas that help people and that makes me busy all the time. I'm looking forward to be ML Engineer when Im finish Bsc and start Msc.
+Learning new technologies, developing ideas and helping other programmers around the world is my pleasure.
 
 Languages that I'm having experience:
 
-- Dart.
-- Java.
-- Kotlin.
-- Swift.
-- Javascript.
-- Python.
-- PHP.
+- Dart
+- Java
+- Kotlin
+- Swift
+- Javascript
+- Python
+- PHP
 
-Looking forward to support you from knowledge or with a software solution because I am doing freelance project when I'm :free:
+Looking forward to support from knowledge or with a software solution. :free:
