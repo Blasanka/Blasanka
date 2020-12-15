@@ -1,5 +1,5 @@
 # Borala Liyanage Asanka :man_technologist: :bowtie:
-### Software Engineer at DH3 Solutions | Previously Associate Software Engineer at Proitzen
+### 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/blasanka)](https://github.com/blasanka)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/b-liyanage-asanka-b8892867/)](https://www.linkedin.com/in/b-liyanage-asanka-b8892867/)
@@ -10,6 +10,15 @@
 
 Hi! I'm Asanka, a Software Engineer mostly working on mobile development and a lover of Flutter framework.
 I'm also in last year of my Bsc in Information Technology, and I'm from Sri Lanka.
+
+#### Software Engineer at DH3 Solutions (1 year 6 months)
+  - Flutter, Android, IOS developer (Child care and elder care mobile apps)
+
+#### Associate Software Engineer at Proitzen (7 months)
+  - Flutter, Android, IOS developer (Singapore bill payment & wallet and EFI QR ticketing & wallet app)
+
+#### NIT Sistems (1 months)
+  - PHP API and Flutter Mobile app (Public.lk classified ads)
 
 Learning new technologies, developing ideas and helping other programmers around the world is my pleasure.
 
