@@ -26,10 +26,10 @@ Looking forward to support from knowledge or with a software solution. :free:
 #### Works
 
 #### Software Engineer at DH3 Solutions (7 months)
-  - Flutter, Android, IOS developer (Child care and elder care mobile apps)
+  - Flutter, Android, IOS developer (Singapore bill payment & wallet and EFI QR ticketing & wallet app)
 
 #### Associate Software Engineer at Proitzen (1 year 6 months)
-  - Flutter, Android, IOS developer (Singapore bill payment & wallet and EFI QR ticketing & wallet app)
+  - Flutter, Android, IOS developer (Child care and elder care mobile apps)
 
 #### NIT Sistems (1 months)
   - PHP API and Flutter Mobile app (Public.lk classified ads)
