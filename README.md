@@ -25,7 +25,7 @@ Looking forward to support from knowledge or with a software solution. :free:
 
 #### Works
 
-#### Software Engineer at DH3 Solutions (2 months)
+#### Software Engineer at Global Tote Lankan [BetMakers] (2 months)
   - Flutter developer
 
 #### Software Engineer at DH3 Solutions (7 months)
