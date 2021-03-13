@@ -24,17 +24,3 @@ Languages that I'm having experience:
 Looking forward to support from knowledge or with a software solution. :free:
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="b-liyanage-asanka-b8892867"><a class="LI-simple-link" href='https://lk.linkedin.com/in/b-liyanage-asanka-b8892867?trk=profile-badge'>B Liyanage Asanka</a></div>
-
-#### Works
-
-#### Software Engineer at Global Tote Lankan [BetMakers] (2 months)
-  - Flutter developer
-
-#### Software Engineer at DH3 Solutions (7 months)
-  - Flutter, Android, IOS developer (Singapore bill payment & wallet and EFI QR ticketing & wallet app)
-
-#### Associate Software Engineer at Proitzen (1 year 6 months)
-  - Flutter, Android, IOS developer (Child care and elder care mobile apps)
-
-#### NIT Sistems (1 months)
-  - PHP API and Flutter Mobile app (Public.lk classified ads)
