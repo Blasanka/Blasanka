@@ -9,7 +9,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/bliyanageasanka)](https://facebook.com/bliyanageasanka)
 
 <strong> Hi! I'm Asanka,</strong> a Sri Lankan Software Engineer mostly working on mobile development and a lover of <strong>Flutter</strong> framework.
-I'm also in last year of my Bsc in Information Technology. Learning new technologies, developing ideas and helping other programmers around the world is my pleasure.
+I'm have a Bsc in Information Technology. Learning new technologies, developing ideas and helping other programmers around the world is my pleasure.
 
 Languages that I'm having experience:
 
