@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoshakshared@gmail.com)](mailto:leoshakshared@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94785413203&text=Hi!)](https://api.whatsapp.com/send?phone=94785413203&text=Hi!)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/bliyanageasanka)](https://facebook.com/bliyanageasanka)
-[![Youtube Badge]([bliyanageasanka](https://www.youtube.com/@asankab.l.5166))
+[![Youtube Badge]()](https://www.youtube.com/@asankab.l.5166)
 
 <strong> Hi! I'm Asanka,</strong> a Sri Lankan Software Engineer mostly working on mobile development and a lover of <strong>Flutter</strong> framework.
 I'm have a Bsc in Information Technology. Learning new technologies, developing ideas and helping other programmers around the world is my pleasure.
