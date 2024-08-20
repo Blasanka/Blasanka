@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/b-liyanage-asanka-b8892867/)](https://www.linkedin.com/in/b-liyanage-asanka-b8892867/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/3675035/blasanka)](https://stackoverflow.com/users/3675035/blasanka)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoshakshared@gmail.com)](mailto:leoshakshared@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94786183433&text=Hi!)](https://api.whatsapp.com/send?phone=94785413203&text=Hi!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=94786183433&text=Hi!)](https://api.whatsapp.com/send?phone=94786183433&text=Hi!)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/bliyanageasanka)](https://facebook.com/bliyanageasanka)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@asankab.l.5166)
 
